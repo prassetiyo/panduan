@@ -1,14 +1,13 @@
 
 # LokusWP x OneSender
 
-OneSender merupakan layanan notifikasi whatsapp untuk pengiriman pesan melalui whatspap secara otomatis, dengan menghubungkan whatsapp anda dengan aplikasi onesender, anda dapat mengirim pesan secara otomatis. berbeda dengan layanan whatsapp lainnya, dengan OneSender anda dapat menginstall aplikasinya di server anda sendiri.
-
+OneSender merupakan layanan notifikasi WhatsApp untuk pengiriman pesan melalui WhatsApp secara otomatis, dengan menghubungkan WhatsApp anda dengan OneSender, anda dapat mengirim pesan secara otomatis. Berbeda dengan layanan Whatsapp API Unofficial lainnya, dengan OneSender anda dapat menginstall serta menjalankan aplikasinya pada server VPS anda sendiri tentunya.
 ## Beli Lisensi OneSender
 
-Untuk dapat menggunakan OneSender anda perlu membeli terlebih dahulu, [Beli OneSender disini.](https://onesender.net/)\
-Jika telah membeli anda akan diarahkan ke halaman member, disana anda bisa mengakses device OneSender.
+Untuk dapat menggunakan OneSender anda harus membeli terlebih dahulu, [Beli OneSender disini.](https://onesender.net/)\
+Jika telah berhasil membeli, anda akan diarahkan ke halaman member, disana anda bisa mengakses device OneSender.
 
-### 1. Hubungkan/Pairing Whatsapp anda Dengan OneSender
+### 1. Hubungkan/Pairing WhatsApp anda dengan OneSender, dengan cara Scan QR Code pada Aplikasi WhatsApp anda.
 
 
 ### 2. Ambil Domain dan API Key
@@ -29,7 +28,7 @@ Anda dapat menginstall wablas melalui Marketplace caranya.
 
 ## Konfigurasi OneSender di LokusWP
 
-Setelah menginstall mendaftar akun Wablas, dan Menginstall Addon Wablas, langkah selanjutnya adalah melakukan konfigurasi, agar bisa terintegrasi
+Setelah menginstall mendaftar akun Wablas, dan Menginstall Addon Wablas, langkah selanjutnya adalah melakukan konfigurasi, agar bisa terintegrasi.
 
 1. Buka Halaman Admin **websiteanda.com/wp-admin**
 2. Pilih **LokusWP** > **Notifikasi** > **OneSender** > **Settings**
@@ -41,7 +40,7 @@ lihat gambar dibawah ini jika merasa kurang jelas.
 
 ![Konfigurasi Wablas di LokusWP](./../assets/konfigurasi-onesender.png)
 
-Selesai, Sekarang Sistem sudah Bisa mengirim notifikasi otomatis ke Whatsapp Pengguna.,
+Selesai, Sekarang Sistem sudah Bisa mengirim notifikasi otomatis ke Whatsapp Pengguna.
 
 <!-- ## Pengujian
 
